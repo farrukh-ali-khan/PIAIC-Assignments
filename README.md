@@ -12,3 +12,6 @@
 5. [Chapter - 4b](https://github.com/farrukh-ali-khan/PIAIC-Assignments/blob/master/HTML-CSS/Chapter4/assignment4b.html)
 6. [Chapter - 5](https://github.com/farrukh-ali-khan/PIAIC-Assignments/blob/master/HTML-CSS/Chapter5/assignment5.html)
 7. [Chapter - 6](https://github.com/farrukh-ali-khan/PIAIC-Assignments/blob/master/HTML-CSS/Chapter6/assignment6.html)
+8. [Chapter - 7](https://github.com/farrukh-ali-khan/PIAIC-Assignments/blob/master/HTML-CSS/Chapter7/index.html)
+9. [Chapter - 8](https://github.com/farrukh-ali-khan/PIAIC-Assignments/blob/master/HTML-CSS/Chapter8/assignment8.html)
+10. [Chapter - 9](https://github.com/farrukh-ali-khan/PIAIC-Assignments/blob/master/HTML-CSS/Chapter9/index.html)
