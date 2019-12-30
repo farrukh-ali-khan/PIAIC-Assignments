@@ -50,3 +50,18 @@
 9. [Task - 9](https://github.com/farrukh-ali-khan/PIAIC-Assignments/blob/master/JAVASCRIPT/Assignment2_CNC032733/task9.js)
 10. [Task - 10](https://github.com/farrukh-ali-khan/PIAIC-Assignments/blob/master/JAVASCRIPT/Assignment2_CNC032733/task10.js)
 11. [Task - 11](https://github.com/farrukh-ali-khan/PIAIC-Assignments/blob/master/JAVASCRIPT/Assignment2_CNC032733/task11.js)
+
+
+##### Assignment - 3
+
+1. [Task - 1](https://github.com/farrukh-ali-khan/PIAIC-Assignments/blob/master/JAVASCRIPT/Assignment3_CNC032733/task1.js)
+2. [Task - 2](https://github.com/farrukh-ali-khan/PIAIC-Assignments/blob/master/JAVASCRIPT/Assignment3_CNC032733/task2.js)
+3. [Task - 3](https://github.com/farrukh-ali-khan/PIAIC-Assignments/blob/master/JAVASCRIPT/Assignment3_CNC032733/task3.js)
+4. [Task - 4](https://github.com/farrukh-ali-khan/PIAIC-Assignments/blob/master/JAVASCRIPT/Assignment3_CNC032733/task4.js)
+5. [Task - 5](https://github.com/farrukh-ali-khan/PIAIC-Assignments/blob/master/JAVASCRIPT/Assignment3_CNC032733/task5.js)
+6. [Task - 6](https://github.com/farrukh-ali-khan/PIAIC-Assignments/blob/master/JAVASCRIPT/Assignment3_CNC032733/task6.js)
+7. [Task - 7](https://github.com/farrukh-ali-khan/PIAIC-Assignments/blob/master/JAVASCRIPT/Assignment3_CNC032733/task7.js)
+8. [Task - 8](https://github.com/farrukh-ali-khan/PIAIC-Assignments/blob/master/JAVASCRIPT/Assignment3_CNC032733/task8.js)
+9. [Task - 9](https://github.com/farrukh-ali-khan/PIAIC-Assignments/blob/master/JAVASCRIPT/Assignment3_CNC032733/task9.js)
+10. [Task - 10](https://github.com/farrukh-ali-khan/PIAIC-Assignments/blob/master/JAVASCRIPT/Assignment3_CNC032733/task10.js)
+11. [Task - 11](https://github.com/farrukh-ali-khan/PIAIC-Assignments/blob/master/JAVASCRIPT/Assignment3_CNC032733/task11.js)
